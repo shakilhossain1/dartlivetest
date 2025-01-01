@@ -7,3 +7,4 @@ double triangle( double base,double height) {
   double area = 0.5 * base * height;
 
   return area;
+}
